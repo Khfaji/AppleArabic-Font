@@ -1,6 +1,6 @@
-id=template
-name=Template Module
+id=AppleArabicFont
+name=AppleArabic-Font
 version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+versionCode=10
+author=Al.khfaji
+description=Systemlessly replaces arabic font with new apple font.
